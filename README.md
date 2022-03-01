@@ -1,2 +1,2 @@
 # Tutorial
-### This contains my python tutorial codes 
+### This folder contains my python code examples
