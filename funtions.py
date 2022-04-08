@@ -111,3 +111,6 @@ Assignment
 #     return roman_list
 
 # numbers = input()
+
+# Special/magic/dunder methods
+# They are in-biult methods, example __str__(), __int__() and so on.

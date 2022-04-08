@@ -9,10 +9,10 @@ Interns = {
     "Bukola": "bukola270"
 }
 
-# with open("names.json", "w") as reader:
-#     json.dump(Interns, reader)                         # It passes interns into the json file
+with open("names.json", "w") as reader:
+    json.dump(Interns, reader)                         # It passes interns into the json file
 
-print(type(Interns))
-all_names = json.dumps(Interns)                        # Converts interns to a json string object and store in all_names
-print(all_names)
-print(type(all_names))
+# print(type(Interns))
+# all_names = json.dumps(Interns)                        # Converts interns to a json string object and store in all_names
+# print(all_names)
+# print(type(all_names))
